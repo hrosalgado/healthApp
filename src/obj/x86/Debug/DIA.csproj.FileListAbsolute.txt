@@ -1,0 +1,10 @@
+C:\Users\Galrich\Github\DIA\obj\x86\Debug\DIA.csprojResolveAssemblyReference.cache
+C:\Users\Galrich\Github\DIA\obj\x86\Debug\DIA.exe
+C:\Users\Galrich\Github\DIA\bin\Debug\DIA.exe
+C:\Users\Galrich\Github\DIA\bin\Debug\DIA.pdb
+C:\Users\Galrich\Github\DIA\obj\x86\Debug\DIA.pdb
+C:\Users\Galrich\Desktop\finalPractice\src\bin\Debug\DIA.exe
+C:\Users\Galrich\Desktop\finalPractice\src\bin\Debug\DIA.pdb
+C:\Users\Galrich\Desktop\finalPractice\src\obj\x86\Debug\DIA.csprojResolveAssemblyReference.cache
+C:\Users\Galrich\Desktop\finalPractice\src\obj\x86\Debug\DIA.exe
+C:\Users\Galrich\Desktop\finalPractice\src\obj\x86\Debug\DIA.pdb

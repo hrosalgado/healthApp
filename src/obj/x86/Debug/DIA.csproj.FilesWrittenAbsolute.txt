@@ -1,0 +1,10 @@
+/home/andoni/Dropbox/Universidad/Teoría y Práctica/Diseño e integración de aplicaciones/Práctica/proyecto/DIA/DIA/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/andoni/Dropbox/Universidad/Teoría y Práctica/Diseño e integración de aplicaciones/Práctica/proyecto/DIA/DIA/bin/Debug/DIA.exe.mdb
+/home/andoni/Dropbox/Universidad/Teoría y Práctica/Diseño e integración de aplicaciones/Práctica/proyecto/DIA/DIA/bin/Debug/DIA.exe
+/home/andoni/Dropbox/Universidad/Teoría y Práctica/Diseño e integración de aplicaciones/Práctica/proyecto/DIA/DIA/obj/x86/Debug/DIA.exe
+/home/andoni/Dropbox/Universidad/Teoría y Práctica/Diseño e integración de aplicaciones/Práctica/proyecto/DIA/DIA/obj/x86/Debug/DIA.exe.mdb
+C:/Users/Migueel/Documents/GitHub/DIA/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+C:/Users/Migueel/Documents/GitHub/DIA/bin/Debug/DIA.exe.mdb
+C:/Users/Migueel/Documents/GitHub/DIA/bin/Debug/DIA.exe
+C:/Users/Migueel/Documents/GitHub/DIA/obj/x86/Debug/DIA.exe
+C:/Users/Migueel/Documents/GitHub/DIA/obj/x86/Debug/DIA.exe.mdb

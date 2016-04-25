@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Foods>
+  <Food Name="b" Brand="b" Meal="b" Amount="2" Portion="b" Calories="89" Date="16/12/2015" />
+  <Food Name="a" Brand="a" Meal="a" Amount="2" Portion="2" Calories="231" Date="23/12/2015" />
+</Foods>
